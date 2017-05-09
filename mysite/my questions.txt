@@ -1,0 +1,14 @@
+part 2:
+why were the first two choices marked as q.whatever and
+the third was c = q.whatever?
+
+the front end is automatically generated, but where?
+and where/how can we edit it?
+
+tab indentations are SUPER important. 
+things won't work if they're indented improperly 
+(throws "This site can't be reached")
+
+what do we use the django shell vs write into test.py?
+    I guess it's to check to make sure a given test case actually 
+    works, and then you write out the actual test in your test.py
